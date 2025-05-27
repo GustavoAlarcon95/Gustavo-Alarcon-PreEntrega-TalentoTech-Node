@@ -10,13 +10,13 @@
 # Obtener todos los productos. Devuelve una lista con todos los productos disponibles.
   npm run start GET products
   
-# Obtiene los detalles de un producto específico usando su ID.
+# Obtiene los detalles de un producto específico usando su id.
   npm run start GET products id
   
-# Crea un producto nuevo con los datos proporcionados, con un nuevo ID.
+# Crea un producto nuevo con los datos proporcionados, con un nuevo id.
   npm run start POST products title price category
   
- # Elimina el producto con el ID indicado.
+ # Elimina el producto con el id indicado.
   npm run start DELETE products id
  
   
