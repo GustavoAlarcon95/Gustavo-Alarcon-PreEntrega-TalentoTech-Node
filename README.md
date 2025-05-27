@@ -1,4 +1,4 @@
-# Gustavo-Alarc-n-Pre-Entrega-Talento-Tech-Node-js
+# ustavo-Alarcon-PreEntrega-TalentoTech-Node
 
 #Este proyecto permite interactuar con la API de FakeStore para obtener, agregar y eliminar productos mediante comandos en la línea de comandos.
 
