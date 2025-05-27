@@ -7,21 +7,18 @@
 
 # Para ejecutar los comandos, usa 'npm run start' seguido del comando deseado.
 
-# Obtener todos los productos
+# Obtener todos los productos. Devuelve una lista con todos los productos disponibles.
   npm run start GET products
-  # Devuelve una lista con todos los productos disponibles.
   
-# Obtener un producto específico
+# Obtiene los detalles de un producto específico usando su ID.
   npm run start GET products id
-  # Obtiene los detalles de un producto específico usando su ID.
   
-# Agregar un nuevo producto
+# Crea un producto nuevo con los datos proporcionados, con un nuevo ID.
   npm run start POST products title price category
-  # Crea un producto nuevo con los datos proporcionados, con un nuevo ID.
-
-# Eliminar un producto
+  
+ # Elimina el producto con el ID indicado.
   npm run start DELETE products id
-  # Elimina el producto con el ID indicado.
+ 
   
   
 
